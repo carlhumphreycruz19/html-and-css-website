@@ -1,0 +1,3 @@
+# HTML-and-CSS-Projects
+this project contains the first html and css website i've made.
+Designing and creating a website using HTML and CSS required both technical skill and creativity. The HTML portion of my website served as the backbone, providing structure and organization to the content. i am happy in the outcome of every project i have made. from designing your own website through CSS and making your website very professional look. 
